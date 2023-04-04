@@ -13,6 +13,7 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   <img align="center" alt="Mari-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Mari-python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 </div>
  
   ##
